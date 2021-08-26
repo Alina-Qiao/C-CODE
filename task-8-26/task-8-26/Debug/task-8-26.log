@@ -1,0 +1,5 @@
+﻿  task23.c
+C:\Alina的code\task-8-26\task-8-26\task23.c(63,6): error C2054: 在“i”之后应输入“(”
+C:\Alina的code\task-8-26\task-8-26\task23.c(64,1): error C2085: “test”: 不在形参表中
+C:\Alina的code\task-8-26\task-8-26\task23.c(64,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Alina的code\task-8-26\task-8-26\task23.c(72,6): warning C4013: “test”未定义；假设外部返回 int
