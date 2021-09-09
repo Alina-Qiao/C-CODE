@@ -1,0 +1,3 @@
+﻿  task28.c
+C:\Alina的code\task-9-9\task-9-9\task28.c(39,1): warning C4090: “初始化”: 不同的“const”限定符
+  task-9-9.vcxproj -> C:\Alina的code\task-9-9\Debug\task-9-9.exe
