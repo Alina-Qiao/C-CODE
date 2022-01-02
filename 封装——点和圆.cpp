@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-
+#include"point.h"
+#include"circle.h"
 class Point
 {
 	public:
